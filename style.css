@@ -10,8 +10,10 @@ body {
 }
 header {
 	background-color: tomato;
+	height: 100px;
 }
 
 footer {
 	background-color: darkgray;
+	height: 50px;
 }
